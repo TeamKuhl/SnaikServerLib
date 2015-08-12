@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8ED6F2BD-20C7-4EF0-84F1-384FCDF0D57E}</ProjectGuid>
+    <ProjectGuid>{7DC921D6-E33C-41AA-A716-DFEDE3041066}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SnaikServer</RootNamespace>
-    <AssemblyName>SnaikServer</AssemblyName>
+    <RootNamespace>SnaikServerLib</RootNamespace>
+    <AssemblyName>SnaikServerLib</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

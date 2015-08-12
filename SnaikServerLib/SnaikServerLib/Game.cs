@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SnaikServer
+namespace SnaikServerLib
 {
-    public class SnaikServer
+    public class Game
     {
-
-
-
     }
 }
